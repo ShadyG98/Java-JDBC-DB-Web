@@ -23,6 +23,13 @@ The content reflects hands-on practice, iteration, and continuous improvement ra
 - **IDE:** IntelliJ IDEA / Eclipse / VS Code (Java extensions)
 - **Build tools:** Basic Java execution (no framework dependency)
 - **Version control:** Git & GitHub
+- **Database:** MySQL (local connection for practice purposes)
+
+---
+
+## 📝 Important Note
+
+**Database Connection:** This repository uses **local database connections** as it is primarily a **practice and learning project**. All database operations connect to a local MySQL instance. There is no cloud deployment or remote database setup. This approach is ideal for hands-on learning and experimentation with JDBC connectivity, SQL queries, and data persistence patterns.
 
 ---
 
