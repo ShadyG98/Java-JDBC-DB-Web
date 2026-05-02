@@ -36,13 +36,9 @@ The content reflects hands-on practice, iteration, and continuous improvement ra
 ## 📂 General Project Structure
 
 ```text
-Java/
-│── src/
-│   ├── basics/          # Variables, data types, operators
-│   ├── controlflow/     # if, switch, loops
-│   ├── oop/             # classes, objects, inheritance, polymorphism
-│   ├── collections/     # List, Set, Map examples
-│   ├── exceptions/      # try-catch, custom exceptions
-│   └── exercises/       # practical exercises
-│
-└── README.md
+Java-JDBC-DB-Web/
+├── 🎓 JavaUniversity/          # Core concepts and university-level exercises
+├── 🎬 MovieCatalog/           # Catalog system (Introduction to File I/O & OOP)
+├── 📚 StudentManagementSystem/ # CRUD application with MySQL & JDBC
+├── 🧩 JavaExercises/          # Collection of logic and syntax practices
+└── 📜 README.md               # Project documentation
